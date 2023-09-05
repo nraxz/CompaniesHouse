@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app list UK companies and its information. 
+Data is stored in Mongodb - Atlast, it uses the serverless function to list the companies data.
 
 ## Available Scripts
 
